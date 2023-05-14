@@ -1,0 +1,32 @@
+{
+  "notes": [
+    {
+      "timing": 1.5,
+      "laneNumber": 0
+    },
+    {
+      "timing": 2.0,
+      "laneNumber": 1
+    },
+    {
+      "timing": 2.5,
+      "laneNumber": 2
+    },
+    {
+      "timing": 3.0,
+      "laneNumber": 1
+    },
+    {
+      "timing": 3.5,
+      "laneNumber": 0
+    },
+    {
+      "timing": 4.0,
+      "laneNumber": 2
+    },
+    {
+      "timing": 4.5,
+      "laneNumber": 1
+    }
+  ]
+}

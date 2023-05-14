@@ -1,0 +1,6 @@
+NID:         140BPM
+Niedrig:     100BPM
+Slowthinker: 120BPM
+Spector:     87BPM
+
+https://myedit.online/jp/audio-editor/bpm-finder
