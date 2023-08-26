@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SpectrumAnalyzer.unity
+    guid: db8278d28766d31499a9f37c911ad3d2
+  - enabled: 1
+    path: Assets/Scenes/RainDrop.unity
+    guid: b7bbb2f47388c034bac0f056a15573db
+  - enabled: 1
+    path: Assets/Scenes/SineWave.unity
+    guid: 5c2a4d7196af5c34ea81fbe30a411c94
   m_configObjects: {}

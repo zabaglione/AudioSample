@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028334, g: 0.22571337, b: 0.3069219, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -469,14 +469,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 1827713036}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d7c125a75304b1f4f8737c3a6e6a403c, type: 3}
+  m_Script: {fileID: 11500000, guid: 19c3589cb595f4249970ea907053e73d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   PlayOnStart: 1
   Volume: 1
   OutputMixerGroup: {fileID: 0}
   Sections:
-  - Name: MainLoop
+  - Name: Section
     Clips:
     - {fileID: 8300000, guid: f4cfca7285f0f2d408b6b6e295b32c85, type: 3}
     Meters:
